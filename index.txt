@@ -1,4 +1,22 @@
+
 hello manafer 
 this is the change happened in the master branch 
 
 I dont know if the change will appear in the about branch 
+
+
+
+
+hello manager 
+
+if x>0 and x<10 (
+print "the x is under 10"
+)
+
+
+else 
+this is in the about branch 
+
+and this the second temp
+and it will be not appear in the master branch 
+
